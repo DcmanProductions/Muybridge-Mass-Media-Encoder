@@ -1,0 +1,582 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Material/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.MaterialLight/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Modern/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Material/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.MaterialLight/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Modern/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Material/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.MaterialLight/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Modern/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Material/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Material.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.MaterialLight/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Modern/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        },
+        "runtime": {
+          "lib/net46/MahApps.Metro.IconPacks.Modern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlzEx/3.0.2.4": {
+      "sha512": "5pgvHE329JDDPwPHCVJe93yxu3CPl2wPh6ma1watUAGjvBtNSMkDcyzvwZcHSryihA/y4Ml3OmDYz9vj7Fg6Xg==",
+      "type": "package",
+      "path": "controlzex/3.0.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "controlzex.3.0.2.4.nupkg.sha512",
+        "controlzex.nuspec",
+        "lib/net40/ControlzEx.dll",
+        "lib/net40/ControlzEx.pdb",
+        "lib/net40/System.Windows.Interactivity.dll",
+        "lib/net45/ControlzEx.dll",
+        "lib/net45/ControlzEx.pdb",
+        "lib/net45/System.Windows.Interactivity.dll",
+        "lib/net462/ControlzEx.dll",
+        "lib/net462/ControlzEx.pdb",
+        "lib/net462/System.Windows.Interactivity.dll"
+      ]
+    },
+    "MahApps.Metro/1.6.5": {
+      "sha512": "XFxACnPbTAZ9qYcXMqFDLXXEpAbLj3BYaXqwH8NoY0sfSAYepEpE4C53Nd6AI4TnQ+nmDugtO8dwsAXPtt0SXQ==",
+      "type": "package",
+      "path": "mahapps.metro/1.6.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/MahApps.Metro.dll",
+        "lib/net40/MahApps.Metro.pdb",
+        "lib/net40/MahApps.Metro.xml",
+        "lib/net45/MahApps.Metro.dll",
+        "lib/net45/MahApps.Metro.pdb",
+        "lib/net45/MahApps.Metro.xml",
+        "lib/net46/MahApps.Metro.dll",
+        "lib/net46/MahApps.Metro.pdb",
+        "lib/net46/MahApps.Metro.xml",
+        "lib/net47/MahApps.Metro.dll",
+        "lib/net47/MahApps.Metro.pdb",
+        "lib/net47/MahApps.Metro.xml",
+        "mahapps.metro.1.6.5.nupkg.sha512",
+        "mahapps.metro.nuspec"
+      ]
+    },
+    "MahApps.Metro.IconPacks/2.3.0": {
+      "sha512": "c9fy3MA/a5SnAC4n8RPxyGt/v7gUGPvuf8DEeHPEc9ZCaVOJLXhpGCpF8461S3QTAAheFw3XYL9efxAuZOIeGg==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/MahApps.Metro.IconPacks.XML",
+        "lib/net40/MahApps.Metro.IconPacks.dll",
+        "lib/net40/MahApps.Metro.IconPacks.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.XML",
+        "lib/net45/MahApps.Metro.IconPacks.dll",
+        "lib/net45/MahApps.Metro.IconPacks.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.XML",
+        "lib/net46/MahApps.Metro.IconPacks.dll",
+        "lib/net46/MahApps.Metro.IconPacks.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/MahApps.Metro.IconPacks.Core.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/MahApps.Metro.IconPacks.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/Generic.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/Generic.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/IconPacks.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/IconPacks.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconEntypo.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconEntypo.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconFontAwesome.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconFontAwesome.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconMaterial.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconMaterial.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconMaterialLight.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconMaterialLight.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconModern.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconModern.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconOcticons.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconOcticons.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconSimpleIcons.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks/Themes/PackIconSimpleIcons.xbf",
+        "mahapps.metro.iconpacks.2.3.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.nuspec"
+      ]
+    },
+    "MahApps.Metro.IconPacks.Material/2.3.0": {
+      "sha512": "OVDJ7S3PVH7ND4Vy4gk1jPGh0o06aZfWHNwOf7UqiMGZZEyj3hhaj/PskSlvlYyyOB1KTjDO737CZN1RECnMtw==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks.material/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/MahApps.Metro.IconPacks.Material.XML",
+        "lib/net40/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net40/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Material.XML",
+        "lib/net45/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Material.XML",
+        "lib/net46/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/MahApps.Metro.IconPacks.Core.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material.XML",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material/MahApps.Metro.IconPacks.Material.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material/Themes/Generic.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material/Themes/Generic.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material/Themes/PackIconMaterial.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Material/Themes/PackIconMaterial.xbf",
+        "mahapps.metro.iconpacks.material.2.3.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.material.nuspec"
+      ]
+    },
+    "MahApps.Metro.IconPacks.MaterialLight/2.3.0": {
+      "sha512": "iXbhhG6LuDoWQygGHs2FOadFOWqbhpsc0ZL+TjvboahWjhVHEAFM3O0qDLWkq1XXg4eNhpC7agTmTW1yiLlztQ==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks.materiallight/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/MahApps.Metro.IconPacks.MaterialLight.XML",
+        "lib/net40/MahApps.Metro.IconPacks.MaterialLight.dll",
+        "lib/net40/MahApps.Metro.IconPacks.MaterialLight.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.MaterialLight.XML",
+        "lib/net45/MahApps.Metro.IconPacks.MaterialLight.dll",
+        "lib/net45/MahApps.Metro.IconPacks.MaterialLight.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.MaterialLight.XML",
+        "lib/net46/MahApps.Metro.IconPacks.MaterialLight.dll",
+        "lib/net46/MahApps.Metro.IconPacks.MaterialLight.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/MahApps.Metro.IconPacks.Core.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight.XML",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight/MahApps.Metro.IconPacks.MaterialLight.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight/Themes/Generic.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight/Themes/Generic.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight/Themes/PackIconMaterialLight.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.MaterialLight/Themes/PackIconMaterialLight.xbf",
+        "mahapps.metro.iconpacks.materiallight.2.3.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.materiallight.nuspec"
+      ]
+    },
+    "MahApps.Metro.IconPacks.Modern/2.3.0": {
+      "sha512": "+UdlV426d/Q7v+JyTa5jxjfnQciGabkEwtgmuuq6g1uSTROXID5gaOsTv+5XnYeAzEj5jnjSUlVW15/WYcyygg==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks.modern/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/MahApps.Metro.IconPacks.Modern.XML",
+        "lib/net40/MahApps.Metro.IconPacks.Modern.dll",
+        "lib/net40/MahApps.Metro.IconPacks.Modern.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Modern.XML",
+        "lib/net45/MahApps.Metro.IconPacks.Modern.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Modern.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Modern.XML",
+        "lib/net46/MahApps.Metro.IconPacks.Modern.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Modern.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/Converter/Converters.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Core/MahApps.Metro.IconPacks.Core.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern.XML",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern.dll",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern.pdb",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern.pri",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern/MahApps.Metro.IconPacks.Modern.xr.xml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern/Themes/Generic.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern/Themes/Generic.xbf",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern/Themes/PackIconModern.xaml",
+        "lib/uap10.0/MahApps.Metro.IconPacks.Modern/Themes/PackIconModern.xbf",
+        "mahapps.metro.iconpacks.modern.2.3.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.modern.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "MahApps.Metro >= 1.6.5",
+      "MahApps.Metro.IconPacks >= 2.3.0",
+      "MahApps.Metro.IconPacks.Material >= 2.3.0",
+      "MahApps.Metro.IconPacks.MaterialLight >= 2.3.0",
+      "MahApps.Metro.IconPacks.Modern >= 2.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\drew_\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\Installer.csproj",
+      "projectName": "Installer",
+      "projectPath": "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\Installer.csproj",
+      "packagesPath": "C:\\Users\\drew_\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\drew_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "MahApps.Metro": {
+            "target": "Package",
+            "version": "[1.6.5, )"
+          },
+          "MahApps.Metro.IconPacks": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          },
+          "MahApps.Metro.IconPacks.Material": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          },
+          "MahApps.Metro.IconPacks.MaterialLight": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          },
+          "MahApps.Metro.IconPacks.Modern": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

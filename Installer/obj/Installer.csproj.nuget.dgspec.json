@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\Installer.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\Installer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\Installer.csproj",
+        "projectName": "Installer",
+        "projectPath": "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\Installer.csproj",
+        "packagesPath": "C:\\Users\\drew_\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspaces\\Visual Studio Workspace\\C#\\Desktop App\\MuybridgeMassMediaEncoder\\Installer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drew_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[1.6.5, )"
+            },
+            "MahApps.Metro.IconPacks": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "MahApps.Metro.IconPacks.Material": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "MahApps.Metro.IconPacks.MaterialLight": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "MahApps.Metro.IconPacks.Modern": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

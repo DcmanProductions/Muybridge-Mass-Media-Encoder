@@ -1,0 +1,51 @@
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\WPF_UI.csprojAssemblyReference.cache
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Themes\ModernButtonTheme.baml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\App.g.cs
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Muybridge Mass Media Encoder_MarkupCompile.cache
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Muybridge Mass Media Encoder_MarkupCompile.lref
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Muybridge Mass Media Encoder.exe.config
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Muybridge Mass Media Encoder.exe
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Muybridge Mass Media Encoder.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\ControlzEx.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\DeltaCompressionDotNet.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MMMELibs.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Mono.Cecil.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\SharpCompress.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Splat.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\System.Windows.Interactivity.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MMMELibs.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\ControlzEx.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.xml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Splat.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Windows\MainWindow.g.cs
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Windows\Settings.g.cs
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\App.baml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Windows\MainWindow.baml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Windows\Settings.baml
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Muybridge Mass Media Encoder.g.resources
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\MMME.Properties.Resources.resources
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\WPF_UI.csproj.GenerateResource.cache
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\WPF_UI.csproj.CopyComplete
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Muybridge Mass Media Encoder.exe
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\obj\Debug\Muybridge Mass Media Encoder.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Updater.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\WPF_UI\bin\Debug\Updater.pdb

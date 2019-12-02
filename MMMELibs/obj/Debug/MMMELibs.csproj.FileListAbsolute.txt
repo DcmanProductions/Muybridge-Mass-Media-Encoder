@@ -1,0 +1,4 @@
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\bin\Debug\MMMELibs.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\bin\Debug\MMMELibs.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\obj\Debug\MMMELibs.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\obj\Debug\MMMELibs.pdb

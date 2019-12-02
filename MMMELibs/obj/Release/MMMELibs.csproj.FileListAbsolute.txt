@@ -1,0 +1,5 @@
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\bin\Release\MMMELibs.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\bin\Release\MMMELibs.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\obj\Release\MMMELibs.dll
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\obj\Release\MMMELibs.pdb
+D:\Workspaces\Visual Studio Workspace\C#\Desktop App\MuybridgeMassMediaEncoder\MMMELibs\obj\Release\MMMELibs.csprojAssemblyReference.cache
